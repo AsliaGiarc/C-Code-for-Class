@@ -8,6 +8,8 @@ int main(void)
      
     int x = 10;
     printf("the value of x is: %d\n",x);
+    //added code
+    printf("hi"\n);
     
     //AI MADE
     // Allocate space for 20 integers using malloc.
