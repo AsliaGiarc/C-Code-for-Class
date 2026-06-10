@@ -10,7 +10,7 @@ typedef struct person {
     int age;
 } Person;
 //END AI MADE
-
+//commit try
 int add(int a, int b);
 //required prototype for functions, in this case add. u can find it after main.
 
