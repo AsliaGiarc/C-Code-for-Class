@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <time.h>
+#include <string.h>
+
+int add();
 
 int main(void)
 {
@@ -30,8 +34,14 @@ int main(void)
     printf("First value: %d\n", array[0]);
     printf("Last value: %d\n", array[19]);
 
+
+
     // Free the allocated memory when we're done with it.
     free(array);
     //END AI MADE
     return 0;
 }
+
+//Erik was here
+//Woohoo C coding
+//Hello this is a comment
